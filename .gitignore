@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/todo-api/node_modules
+/todo-api/db.json
 /.pnp
 .pnp.*
 .yarn/*
